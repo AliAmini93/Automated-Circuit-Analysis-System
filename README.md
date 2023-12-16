@@ -4,6 +4,7 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ### 1. Data Collection
 - **Task**: Capture images using a provided platform, ensuring significant overlap for accuracy.
+  
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/e18df852-7dd5-4a06-8767-58e3900542ae)
 
 ### 2. Image Preprocessing
@@ -34,3 +35,5 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 ### 9. Refinement and Output
 - **Task**: Refine the orthomosaic through editing or enhancement.
 - **Result**: High-resolution, accurately scaled 2D map.
+
+![compressed_1](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/2dac1f4c-8ba6-4117-a298-5061f07c2c80)
