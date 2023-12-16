@@ -77,3 +77,34 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 ![results](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/775b56be-0ecb-407d-83bb-e6f84cc31607)
 
 ![confusion_matrix](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/f75fdfec-67e9-485b-b96a-32c62fc709c5)
+
+## IC Detection
+
+### 1. Dataset Utilization and Annotation
+- **Task**: Employ the same dataset with distinct annotations for IC detection.
+- **Details**: The dataset includes 3 types of ICs: without, four-sided, and two-sided ICs.
+
+### 2. Model Selection and Training
+- **Task**: Experiment with different YOLO versions for fine-tuning.
+- **Process**: Various training configurations and data augmentation techniques were tested.
+- **Result**: The best model, based on its performance on the test set, was selected for further analysis.
+- **Model Availability**: The fine-tuned model can be provided upon request.
+
+![FinalIMGFinalIMG-IC-Detected](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/0dc2f522-3b4c-4ed1-b0ce-f5dc2f986136)
+
+![compressed_600](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/4c8c03d0-f066-43fa-8fa8-f1f74aaccfee)
+
+![compressed_581](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/686aee60-bdb0-4bbd-9380-5c13bd2987c4)
+
+![599](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/e5f48554-c944-4545-9c29-3d8e72a676a8)
+
+![1](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/92b59cd6-b05f-48e3-97fc-70c99ee0a2de)
+
+![PR_curve](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/c5825eab-91f2-45ae-bac3-fcde7711dd27)
+
+![P_curve](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/ac866578-af70-4574-b121-40f98e550f27)
+
+![confusion_matrix](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/6883fd4b-429d-40de-a6d8-fba7b906cdbf)
+
+
+
