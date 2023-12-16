@@ -77,7 +77,6 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 ![results](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/775b56be-0ecb-407d-83bb-e6f84cc31607)
 
 ![confusion_matrix](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/f75fdfec-67e9-485b-b96a-32c62fc709c5)
-
 ## IC Detection
 
 ### 1. Dataset Utilization and Annotation
