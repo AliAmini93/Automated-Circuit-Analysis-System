@@ -125,4 +125,18 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 - **Objective**: Facilitate the process of recognizing each IC by identifying the associated company logo.
 - **Model Availability**: The logo detection model is accessible upon request.
 
+### 4. Web-Scraping for IC Information
+- **Task**: Search for each IC on the internet using the recognized text from the IC surface.
+- **Method**: Employ web-scraping techniques to find relevant information and datasheets for each IC.
+- **Objective**: Enhance the identification process by gathering detailed information about each IC from online sources.
+
+### 5. Report Generation
+- **Task**: Create a comprehensive report for electrical boards containing multiple ICs.
+- **Details**: The report includes datasheets and information for each identified IC.
+- **Feature**: If an IC is successfully found online, its datasheet will be downloaded and included in the report.
+- **Benefit**: Provides users with accessible and detailed information about each IC on the electrical board.
+
+![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/447a428d-d777-49de-a074-395b1eda13e6)
+
+
 
