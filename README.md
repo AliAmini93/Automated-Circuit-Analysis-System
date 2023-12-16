@@ -4,6 +4,7 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ### 1. Data Collection
 - **Task**: Capture images using a provided platform, ensuring significant overlap for accuracy.
+![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/e18df852-7dd5-4a06-8767-58e3900542ae)
 
 ### 2. Image Preprocessing
 - **Task**: Analyze image metadata for camera details and location information.
