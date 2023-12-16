@@ -138,5 +138,30 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/447a428d-d777-49de-a074-395b1eda13e6)
 
+## Windows-Based Application for Automation
+
+### 1. Application Overview
+- **Description**: A Windows-based application crafted to automate the entire process of IC recognition and reporting.
+- **Technology**: Written in Python and utilizes PyQt for the graphical user interface.
+
+### 2. I/O File Handling
+- **Functionality**: Handles input and output files for each electrical board.
+- **Includes**:
+  - The generated report for each board.
+  - Images of detected electronic boards.
+  - Patches of detected ICs.
+
+### 3. Multithreading and Multiprocessing
+- **Design Approach**: The application is developed with multithreading and multiprocessing capabilities.
+- **Purpose**: To efficiently handle and process multiple electrical boards simultaneously.
+- **Benefit**: Enhances performance and responsiveness, especially when dealing with multiple tasks or large datasets.
+
+### 4. User Interface
+- **Aspect**: Features a user-friendly interface for easy navigation and operation.
+- **Functionality**: Allows users to seamlessly interact with the application for processing and retrieving results.
+
+### 5. Comprehensive Automation
+- **Objective**: Streamline the entire process from image input to report generation, integrating all the previously mentioned components (YOLO model, PaddleOCR, web scraping).
+- **Outcome**: A unified system that efficiently processes electrical boards, identifies ICs, retrieves information, and compiles comprehensive reports.
 
 
