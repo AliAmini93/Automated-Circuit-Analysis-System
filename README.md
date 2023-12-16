@@ -105,5 +105,24 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ![confusion_matrix](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/6883fd4b-429d-40de-a6d8-fba7b906cdbf)
 
+## IC Recognition
+
+### 1. Box Detection on ICs
+- **Task**: Detect boxes containing text on each IC using a fine-tuned YOLO model.
+- **Model Details**: The model is specifically trained for the precise detection of text boxes on integrated circuits.
+- **Model Availability**: The fine-tuned YOLO model can be provided upon request.
+
+### 2. Text Recognition within Boxes
+- **Task**: Recognize the text within each detected box.
+- **Method**: Utilize a fine-tuned PaddleOCR for accurate text recognition.
+- **Process**: PaddleOCR works in conjunction with the YOLO model to effectively recognize text in the identified areas.
+- **Model Availability**: The fine-tuned PaddleOCR model is available upon request.
+- **Implementation**: The `ocr.py` script is used for the detection and recognition tasks in this part.
+
+### 3. Logo Detection
+- **Task**: Identify company logos on the ICs.
+- **Method**: Use a fine-tuned YOLO model trained on a dataset of 20 different company logos.
+- **Objective**: Facilitate the process of recognizing each IC by identifying the associated company logo.
+- **Model Availability**: The logo detection model is accessible upon request.
 
 
