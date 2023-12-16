@@ -56,6 +56,7 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ### 5. Model Performance
 - **Note**: The trained model's performance will be showcased below.
+- **Model Availability**: The fine-tuned model can be provided upon request.
 
 ![FinalIMG](https://github.com/AliAmini93/Electrical-Board-detection/assets/96921261/5df89c13-7c16-4460-8e1c-663c260b0f06)
 
