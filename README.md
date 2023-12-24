@@ -53,7 +53,7 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
   - Impact: Ensures seamless workflow from image acquisition to analysis.
 
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/eb046eac-5e5a-4e0a-9660-c9f49f4424a3) ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/c4de1e9c-b935-4bdc-85d4-5079602067a5)
-
+![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/41594daf-2498-4fce-878b-4302aadc3629) ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/30f58ddb-d053-46bb-8066-00875b4b3ad9)
 
 
 ## Electrical Board Detection
