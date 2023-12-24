@@ -38,9 +38,22 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 
 ![compressed_1](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/2dac1f4c-8ba6-4117-a298-5061f07c2c80)
 
-### 10. GUI Development 
-- **Automation**: To automate the image capturing and image processing techniques, a GUI was developed using Visual C#
+### 10. GUI Development for Automated System Control
+- **Overview**: 
+  - Description: A Visual C# GUI designed to automate and streamline the image capturing and processing stages.
+
+- **Features**: 
+  - Camera Positioning: 
+    - Function: Manages initial, movement, and final camera positions.
+  - Image Processing: 
+    - Task: Executes PCB image processing post-capture.
+
+- **Role**: 
+  - Importance: Integral for user-friendly operation and system efficiency.
+  - Impact: Ensures seamless workflow from image acquisition to analysis.
+
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/eb046eac-5e5a-4e0a-9660-c9f49f4424a3) ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/c4de1e9c-b935-4bdc-85d4-5079602067a5)
+
 
 
 ## Electrical Board Detection
