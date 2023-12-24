@@ -161,7 +161,8 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 ### 1. Application Overview
 - **Description**: A Windows-based application crafted to automate the entire process of IC recognition and reporting.
 - **Technology**: Written in Python and utilizes PyQt for the graphical user interface.
-![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/0b04f4c3-ede9-4bf1-aa18-ff306cdaafbe)
+  
+  ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/0b04f4c3-ede9-4bf1-aa18-ff306cdaafbe)
 
 ### 2. I/O File Handling
 - **Functionality**: Handles input and output files for each electrical board.
