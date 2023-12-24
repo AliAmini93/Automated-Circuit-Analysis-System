@@ -3,24 +3,24 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 ## 2D Image Representation
 
 ### 1. Data Collection
-- **Task**: Capture images using a provided platform, ensuring significant overlap for accuracy.
+- **Image Capturing**: Capture images using a provided platform, ensuring significant overlap for accuracy.
   
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/e18df852-7dd5-4a06-8767-58e3900542ae)
 
 ### 2. Image Preprocessing
-- **Task**: Analyze image metadata for camera details and location information.
+- **Image Analysis**: Analyze image metadata for camera details and location information.
 
 ### 3. Initial Processing - Key Point Detection and Matching
-- **Task**: Detect distinct points in each image.
-- **Task**: Match these points across overlapping images to identify common areas.
+- **Keypoint Detection**: Detect distinct points in each image.
+- **Keypoint Matching**: Match these points across overlapping images to identify common areas.
 
 ### 4. Point Cloud and Tie Points Generation
-- **Task**: Generate a sparse point cloud from matched points.
-- **Task**: Identify tie points (points appearing in multiple images) for 3D modeling.
+- **Point-Cloud Generation**: Generate a sparse point cloud from matched points.
+- **Point-Cloud Identification**: Identify tie points (points appearing in multiple images) for 3D modeling.
 
 ### 5. Calibration and Alignment
-- **Task**: Perform camera calibration and refine tie point positions.
-- **Task**: Use positional data for model alignment.
+- **Image Calibration**: Perform camera calibration and refine tie point positions.
+- **Image Alignment**: Use positional data for model alignment.
 
 ### 6. Dense Point Cloud Generation
 - **Task**: Create a dense point cloud for detailed representation.
@@ -29,14 +29,19 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
 - **Task**: Generate a detailed Surface Model and Terrain Model from the dense point cloud.
 
 ### 8. Orthomosaic Creation
-- **Task**: Stitch processed images to create an orthomosaic.
-- **Task**: Correct perspective distortions for uniform scale and adjust for topography.
+- **Image Stitching**: Stitch processed images to create an orthomosaic.
+- **Perspective Correction**: Correct perspective distortions for uniform scale and adjust for topography.
 
 ### 9. Refinement and Output
 - **Task**: Refine the orthomosaic through editing or enhancement.
 - **Result**: High-resolution, accurately scaled 2D map.
 
 ![compressed_1](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/2dac1f4c-8ba6-4117-a298-5061f07c2c80)
+
+### 10. GUI Development 
+- **Automation**: To automate the image capturing and image processing techniques, a GUI was developed using Visual C#
+![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/eb046eac-5e5a-4e0a-9660-c9f49f4424a3) ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/c4de1e9c-b935-4bdc-85d4-5079602067a5)
+
 
 ## Electrical Board Detection
 
