@@ -7,7 +7,7 @@ This multifaceted project is comprised of 5 main sections including 2D Image Rep
   
 ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/e18df852-7dd5-4a06-8767-58e3900542ae)
 
-### 2. Image Preprocessing
+### 2. Image Registration
 - **Image Analysis**: Analyze image metadata for camera details and location information.
 
 ### 3. Initial Processing - Key Point Detection and Matching
