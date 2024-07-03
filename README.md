@@ -1,5 +1,5 @@
 # Automated Circuit Analysis System
-This multifaceted project is comprised of 5 main sections including 2D Image Representation, Electrical Board Detection, IC detection, IC Recognition, and preparing a GUI to automate the entire process.
+This multifaceted project comprises 5 main sections including 2D Image Registration, Electrical Board Detection, IC detection, IC Recognition, and preparing a GUI to automate the entire process.
 ## 2D Image Registration
 
 ### 1. Data Collection
