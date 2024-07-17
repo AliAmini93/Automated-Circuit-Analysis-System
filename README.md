@@ -162,7 +162,10 @@ This multifaceted project comprises 5 main sections including 2D Image Registrat
 - **Description**: A Windows-based application crafted to automate the entire process of IC recognition and reporting.
 - **Technology**: Written in Python and utilizes PyQt for the graphical user interface.
   
-  ![image](https://github.com/AliAmini93/Automated-Circuit-Analysis-System/assets/96921261/0b04f4c3-ede9-4bf1-aa18-ff306cdaafbe)
+![image](https://github.com/user-attachments/assets/02d55777-7d98-4793-b496-d1f0b357f71f)  ![image](https://github.com/user-attachments/assets/2e8a6762-5b1c-4ee2-9822-8432f934b066)
+![image](https://github.com/user-attachments/assets/833ffc82-4cf9-4fa7-b3ff-5d0e6bed9f5b)  ![image](https://github.com/user-attachments/assets/dd143e3d-2d08-4c4b-9f60-60435977b58e)
+
+
 
 ### 2. I/O File Handling
 - **Functionality**: Handles input and output files for each electrical board.
