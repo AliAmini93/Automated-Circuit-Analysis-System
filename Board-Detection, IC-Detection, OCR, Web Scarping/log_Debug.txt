@@ -1,0 +1,67 @@
+*********************** Image: 2.jpg ***********************
+Result of logo detection: Intel Corporation
+Angle of the image: 0
+Part Number: L640QB13
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cell10"]/td[2]/a/b"}
+  (Session info: chrome=118.0.5993.118); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7009A8EF2+54786]
+	(No symbol) [0x00007FF700915612]
+	(No symbol) [0x00007FF7007CA64B]
+	(No symbol) [0x00007FF70080B79C]
+	(No symbol) [0x00007FF70080B91C]
+	(No symbol) [0x00007FF700846D87]
+	(No symbol) [0x00007FF70082BEAF]
+	(No symbol) [0x00007FF700844D02]
+	(No symbol) [0x00007FF70082BC43]
+	(No symbol) [0x00007FF700800941]
+	(No symbol) [0x00007FF700801B84]
+	GetHandleVerifier [0x00007FF700CF7F52+3524194]
+	GetHandleVerifier [0x00007FF700D4D800+3874576]
+	GetHandleVerifier [0x00007FF700D45D7F+3843215]
+	GetHandleVerifier [0x00007FF700A45086+694166]
+	(No symbol) [0x00007FF700920A88]
+	(No symbol) [0x00007FF70091CA94]
+	(No symbol) [0x00007FF70091CBC2]
+	(No symbol) [0x00007FF70090CC83]
+	BaseThreadInitThunk [0x00007FFFEDBC7344+20]
+	RtlUserThreadStart [0x00007FFFEE2026B1+33]
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Final\PCB-Report\ic_info\alldatasheet.py", line 168, in alldatasheet_part_Manu
+    data_IC['ManufacturerPartNumber'] = browser.find_element(By.XPATH, '//*[@id="cell10"]/td[2]/a/b').text
+  File "C:\Users\user\anaconda3\envs\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 738, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\user\anaconda3\envs\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 344, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\anaconda3\envs\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="cell10"]/td[2]/a/b"}
+  (Session info: chrome=118.0.5993.118); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7009A8EF2+54786]
+	(No symbol) [0x00007FF700915612]
+	(No symbol) [0x00007FF7007CA64B]
+	(No symbol) [0x00007FF70080B79C]
+	(No symbol) [0x00007FF70080B91C]
+	(No symbol) [0x00007FF700846D87]
+	(No symbol) [0x00007FF70082BEAF]
+	(No symbol) [0x00007FF700844D02]
+	(No symbol) [0x00007FF70082BC43]
+	(No symbol) [0x00007FF700800941]
+	(No symbol) [0x00007FF700801B84]
+	GetHandleVerifier [0x00007FF700CF7F52+3524194]
+	GetHandleVerifier [0x00007FF700D4D800+3874576]
+	GetHandleVerifier [0x00007FF700D45D7F+3843215]
+	GetHandleVerifier [0x00007FF700A45086+694166]
+	(No symbol) [0x00007FF700920A88]
+	(No symbol) [0x00007FF70091CA94]
+	(No symbol) [0x00007FF70091CBC2]
+	(No symbol) [0x00007FF70090CC83]
+	BaseThreadInitThunk [0x00007FFFEDBC7344+20]
+	RtlUserThreadStart [0x00007FFFEE2026B1+33]
+
+This part number exist in the None
+Part Number: QU80386EX33
+This Part Number exists in the database
+Part Number: 8591
+This part number exist in the alldatasheet_manufacturer

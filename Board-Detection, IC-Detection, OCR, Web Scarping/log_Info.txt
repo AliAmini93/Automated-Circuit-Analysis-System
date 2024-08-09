@@ -1,0 +1,3 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<< THE DATA IS >>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[{'_id': ObjectId('6549dfbe925031e03c65fffa'), 'ManufacturerPartNumber': 'QU80', 'Manufacturer': 'Intel Corporation', 'Description': '80C186EC/80C188EC AND 80L186EC/80L188EC 16-BIT HIGH-INTEGRATION EMBEDDED PROCESSORS', 'Category': '', 'DataSheetUrl': '', 'source': 'alldatasheet_manufacturer', 'textOCR': 'QU80386EX33', 'flag': 1}, {'ManufacturerPartNumber': '859', 'Manufacturer': 'NorComp', 'Description': 'M12 FEMALE // PANEL MOUNT (REAR) // SOLDER CUP // 2P // A-CODE\nREV.01', 'Category': '', 'DataSheetUrl': 'C:\\Users\\user\\Desktop\\Final\\PCB-Report\\UnverifiedDatasheets\\859-002-203R004.PDF', 'source': 'alldatasheet_manufacturer', 'textOCR': '8591'}]
+--- 0.96 minutes ---
