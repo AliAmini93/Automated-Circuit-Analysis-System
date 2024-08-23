@@ -188,4 +188,4 @@ This multifaceted project comprises 5 main sections including 2D Image Registrat
 - **Outcome**: A unified system that efficiently processes electrical boards, identifies ICs, retrieves information, and compiles comprehensive reports.
 ## Author
 - **Ali Amini**: Machine Vision Engineer and Software Developer at RCDAT.
-- **GitHub Repo**: ![Repo Adress](https://github.com/AliAmini93/Automated-Circuit-Analysis-System) 
+- **GitHub Repo**: [Repo Adress](https://github.com/AliAmini93/Automated-Circuit-Analysis-System) 
