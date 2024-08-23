@@ -186,5 +186,6 @@ This multifaceted project comprises 5 main sections including 2D Image Registrat
 ### 5. Comprehensive Automation
 - **Objective**: Streamline the entire process from image input to report generation, integrating all the previously mentioned components (YOLO model, PaddleOCR, web scraping).
 - **Outcome**: A unified system that efficiently processes electrical boards, identifies ICs, retrieves information, and compiles comprehensive reports.
-
+## Author
+Ali Amini: Machine Vision Engineer and Software Developer at RCDAT.
 
